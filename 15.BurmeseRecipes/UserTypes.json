@@ -1,0 +1,14 @@
+[
+  {
+    "UserId": 1,
+    "UserCode": "001",
+    "UserMMType": "အသားစား",
+    "UserEngType": "MeatEater"
+  },
+  {
+    "UserId": 2,
+    "UserCode": "002",
+    "UserMMType": "သက်သက်လွတ်",
+    "UserEngType": "Vegan"
+  }
+]
