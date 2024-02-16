@@ -1,3 +1,3 @@
 # Burma-Project-Ideas
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![Alt text](https://github.com/sannlynnhtun-coding/Burma-Project-Ideas/blob/main/data/burma-project-ideas.png)
