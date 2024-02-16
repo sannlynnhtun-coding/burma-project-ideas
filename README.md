@@ -1,7 +1,5 @@
 # Burma-Project-Ideas
 
-![Alt text](https://github.com/sannlynnhtun-coding/Burma-Project-Ideas/blob/main/data/burma-project-ideas.png)
-
 01. [Min Thein Kha - Lat Htauk Bay Din](https://github.com/sannlynnhtun-coding/MinTheinKha-LatHtaukBayDin)
 02. [Dream Dictionary](https://github.com/sannlynnhtun-coding/Dream-Dictionary)
 03. [Movie Ticket Online Booking System](https://github.com/sannlynnhtun-coding/Movie-Ticket-Online-Booking-System)
@@ -18,3 +16,7 @@
 14. [Quotlets](https://github.com/sannlynnhtun-coding/Quotlets)
 15. [Burmese Recipes](https://github.com/sannlynnhtun-coding/Burmese-Recipes)
 16. [Burmese Agriculture](https://github.com/sannlynnhtun-coding/Burmese-Agriculture)
+
+
+
+![Alt text](https://github.com/sannlynnhtun-coding/Burma-Project-Ideas/blob/main/data/burma-project-ideas.png)
