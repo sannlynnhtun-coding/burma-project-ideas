@@ -1,4 +1,4 @@
-# Burma-Project-Ideas
+# Burma Project Ideas
 
 01. [Min Thein Kha - Lat Htauk Bay Din](https://github.com/sannlynnhtun-coding/MinTheinKha-LatHtaukBayDin)
 02. [Dream Dictionary](https://github.com/sannlynnhtun-coding/Dream-Dictionary)
