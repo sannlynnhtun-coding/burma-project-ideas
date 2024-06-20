@@ -6,6 +6,10 @@
 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 များစွာရှိစေချင်တဲ့ 
 ရည်ရွယ်ချက်နဲ့ လုပ်ခဲ့တာပါ"
 
+## Give a Star! :star:
+
+If you like this repository to learn or start your solution, please give it a star. Thanks!
+
 𝗚𝗶𝘁𝗛𝘂𝗯 𝗥𝗲𝗽𝗼𝘀𝗶𝘁𝗼𝗿𝘆 တစ်ခုဆီရဲ့ အောက်ဆုံးမှာ
 ရေးထားပေးတဲ့သူတွေကို စုထားပေးပါတယ်
 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 တွေလည်း စုံတယ်
