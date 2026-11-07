@@ -22,13 +22,14 @@ If you like this repository to learn or start your solution, please give it a st
 
 ## Projects
 
-Ordered by repository creation date, newest first. Dates come from GitHub's `created_at` field in UTC and are not confirmed project kickoff dates. Snapshot: 2026-11-04; Word List and Burglish added 2026-11-07. Contributors are GitHub accounts credited with commits, listed in contribution order; upstream data sources are credited where noted. The `.github` organization-profile repository and backup repositories are excluded.
+Ordered by repository creation date, newest first. Dates come from GitHub's `created_at` field in UTC and are not confirmed project kickoff dates. Snapshot: 2026-11-04; Word List, Burglish, and Burma Love Calculator added 2026-11-07. Contributors are GitHub accounts credited with commits, listed in contribution order; upstream data sources are credited where noted. The `.github` organization-profile repository and backup repositories are excluded.
 
 | Project | Created&nbsp;date | Repository | Contributors / source credits |
 | --- | :---: | --- | --- |
 | Office Zoo | <code>2026&#8209;11&#8209;04</code> | [office-zoo](https://github.com/burma-project-ideas/office-zoo) | [@sannlynnhtun-coding](https://github.com/sannlynnhtun-coding) |
 | Burma Calendar | <code>2026&#8209;09&#8209;01</code> | [burma-calendar](https://github.com/burma-project-ideas/burma-calendar) | [@sannlynnhtun-coding](https://github.com/sannlynnhtun-coding) |
 | Burglish | <code>2026&#8209;08&#8209;20</code> | [burglish](https://github.com/burma-project-ideas/burglish) | [@sannlynnhtun-coding](https://github.com/sannlynnhtun-coding), [@theinhtetaung-dev](https://github.com/theinhtetaung-dev) |
+| Burma Love Calculator | <code>2026&#8209;04&#8209;27</code> | [burma-love-calculator](https://github.com/burma-project-ideas/burma-love-calculator) · [Live app](https://blazor-burma-love-calculator.vercel.app/) | [@sannlynnhtun-coding](https://github.com/sannlynnhtun-coding) |
 | Word List | <code>2026&#8209;03&#8209;04</code> | [word-list](https://github.com/burma-project-ideas/word-list) · [Live app](https://blazor-word-list.vercel.app/) | [Kanaung Wordlists](https://github.com/kanaung/wordlists) (wordlist data), [@sannlynnhtun-coding](https://github.com/sannlynnhtun-coding) (app) |
 | Mantra Calendar | <code>2025&#8209;08&#8209;21</code> | [mantra-calendar](https://github.com/burma-project-ideas/mantra-calendar) | [@sannlynnhtun-coding](https://github.com/sannlynnhtun-coding), [@myatphonethant-dev](https://github.com/myatphonethant-dev) |
 | PhayarSar | <code>2024&#8209;06&#8209;09</code> | [phayar-sar](https://github.com/burma-project-ideas/phayar-sar) | [@sannlynnhtun-coding](https://github.com/sannlynnhtun-coding) |
@@ -49,6 +50,14 @@ Ordered by repository creation date, newest first. Dates come from GitHub's `cre
 | Movie Ticket Online Booking System | <code>2023&#8209;10&#8209;07</code> | [movie-ticket-online-booking-system](https://github.com/burma-project-ideas/movie-ticket-online-booking-system) | [@mgchit-coding](https://github.com/mgchit-coding), [@sannlynnhtun-coding](https://github.com/sannlynnhtun-coding), [@OatSoeK](https://github.com/OatSoeK), [@phyuphyuthin-coding](https://github.com/phyuphyuthin-coding) |
 | Dream Dictionary | <code>2023&#8209;10&#8209;07</code> | [dream-dictionary](https://github.com/burma-project-ideas/dream-dictionary) | [@sannlynnhtun-coding](https://github.com/sannlynnhtun-coding), [@OatSoeK](https://github.com/OatSoeK) |
 | Min Thein Kha - Lat Htauk Bay Din | <code>2023&#8209;10&#8209;05</code> | [min-thein-kha-lat-htauk-bay-din](https://github.com/burma-project-ideas/min-thein-kha-lat-htauk-bay-din) | [@sannlynnhtun-coding](https://github.com/sannlynnhtun-coding), [@OatSoeK](https://github.com/OatSoeK) |
+
+## Burma Love Calculator
+
+[Try the calculator](https://blazor-burma-love-calculator.vercel.app/) · [Read the calculation workflow and setup guide](https://github.com/burma-project-ideas/burma-love-calculator#readme)
+
+နာမည်နှစ်ခုကို English အက္ခရာနဲ့ ထည့်ပြီး အပျော်တမ်း Score တွက်ကြည့်နိုင်တဲ့ Blazor WebAssembly App ပါ။ ရလဒ်ရဲ့ Calculation Round တွေကိုလည်း ဖွင့်ကြည့်နိုင်ပါတယ်။ Prestige UI ကို Blazor အတွက် Adapt လုပ်ထားပြီး Mobile Layout၊ Light/Dark Theme နဲ့ Keyboard အသုံးပြုမှုကို ပံ့ပိုးထားပါတယ်။ နာမည်တွေကို Browser ထဲမှာပဲ တွက်ပြီး Relationship Prediction အဖြစ် မသုံးသင့်ပါဘူး။
+
+App: [Sann Lynn Htun](https://github.com/sannlynnhtun-coding). UI: adapted from [Prestige UI](https://prestigeui.com/); [credits and licenses](https://github.com/burma-project-ideas/burma-love-calculator/blob/master/THIRD_PARTY_NOTICES.md).
 
 ## Word List
 
