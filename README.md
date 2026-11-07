@@ -51,6 +51,18 @@ Ordered by repository creation date, newest first. Dates come from GitHub's `cre
 | Dream Dictionary | <code>2023&#8209;10&#8209;07</code> | [dream-dictionary](https://github.com/burma-project-ideas/dream-dictionary) | [@sannlynnhtun-coding](https://github.com/sannlynnhtun-coding), [@OatSoeK](https://github.com/OatSoeK) |
 | Min Thein Kha - Lat Htauk Bay Din | <code>2023&#8209;10&#8209;05</code> | [min-thein-kha-lat-htauk-bay-din](https://github.com/burma-project-ideas/min-thein-kha-lat-htauk-bay-din) | [@sannlynnhtun-coding](https://github.com/sannlynnhtun-coding), [@OatSoeK](https://github.com/OatSoeK) |
 
+## Zodiac
+
+<p><a href="https://blazor-zodiac.vercel.app/"><img src="https://raw.githubusercontent.com/burma-project-ideas/zodiac/main/BlazorWasm.Zodiac/wwwroot/brand/logo.svg" width="72" height="72" alt="Zodiac purple constellation Z logo inside an orbit with a star" /></a></p>
+
+[Open Zodiac](https://blazor-zodiac.vercel.app/) · [View the source and setup guide](https://github.com/burma-project-ideas/zodiac#readme)
+
+မွေးနေ့ကို ရွေးချယ်ပြီး ရာသီခွင်၊ မြန်မာလ၊ Personality Traits Chart နဲ့ သက်ဆိုင်ရာ မြန်မာဘာသာအကြောင်းအရာတွေကို ကြည့်နိုင်တဲ့ **.NET 10 Blazor WebAssembly App** ပါ။ Untitled UI ရဲ့ Landing Page Design ကို Zodiac အတွက် Adapt လုပ်ထားပြီး Purple Theme Datepicker၊ Mobile Layout နဲ့ ကိုယ်ပိုင် Constellation Logo ပါဝင်ပါတယ်။ မွေးနေ့ကို Browser ထဲမှာပဲ တွက်ချက်တဲ့အတွက် Account နဲ့ Server Database မလိုပါဘူး။
+
+[![Zodiac landing page showing the constellation logo, purple actions, and reading workspace](https://raw.githubusercontent.com/burma-project-ideas/zodiac/main/docs/images/landing-desktop.jpg)](https://blazor-zodiac.vercel.app/)
+
+App: [Sann Lynn Htun](https://github.com/sannlynnhtun-coding). Data: [Burma Project Ideas — Zodiac](https://github.com/burma-project-ideas/zodiac). UI reference: [Untitled UI](https://www.untitledui.com/react/marketing/landing-pages/landing-page-01). [Full credits, screenshots, and brand assets](https://github.com/burma-project-ideas/zodiac#readme).
+
 ## Burma Love Calculator
 
 <p><a href="https://blazor-burma-love-calculator.vercel.app/"><img src="https://raw.githubusercontent.com/burma-project-ideas/burma-love-calculator/master/wwwroot/brand/love-mark.svg" width="72" height="72" alt="Burma Love Calculator rose heart logo with a diamond cutout" /></a></p>
