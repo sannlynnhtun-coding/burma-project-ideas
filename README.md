@@ -22,13 +22,13 @@ If you like this repository to learn or start your solution, please give it a st
 
 ## Projects
 
-Ordered by repository creation date, newest first. Dates come from GitHub's `created_at` field in UTC and are not confirmed project kickoff dates. Snapshot: 2026-11-04; Word List and Blazor Burglish added 2026-11-07. Contributors are GitHub accounts credited with commits, listed in contribution order; upstream data sources are credited where noted. The `.github` organization-profile repository and backup repositories are excluded.
+Ordered by repository creation date, newest first. Dates come from GitHub's `created_at` field in UTC and are not confirmed project kickoff dates. Snapshot: 2026-11-04; Word List and Burglish added 2026-11-07. Contributors are GitHub accounts credited with commits, listed in contribution order; upstream data sources are credited where noted. The `.github` organization-profile repository and backup repositories are excluded.
 
 | Project | Created&nbsp;date | Repository | Contributors / source credits |
 | --- | :---: | --- | --- |
 | Office Zoo | <code>2026&#8209;11&#8209;04</code> | [office-zoo](https://github.com/burma-project-ideas/office-zoo) | [@sannlynnhtun-coding](https://github.com/sannlynnhtun-coding) |
 | Burma Calendar | <code>2026&#8209;09&#8209;01</code> | [burma-calendar](https://github.com/burma-project-ideas/burma-calendar) | [@sannlynnhtun-coding](https://github.com/sannlynnhtun-coding) |
-| Blazor Burglish | <code>2026&#8209;08&#8209;20</code> | [blazor-burglish](https://github.com/burma-project-ideas/blazor-burglish) | [@sannlynnhtun-coding](https://github.com/sannlynnhtun-coding), [@theinhtetaung-dev](https://github.com/theinhtetaung-dev) |
+| Burglish | <code>2026&#8209;08&#8209;20</code> | [burglish](https://github.com/burma-project-ideas/burglish) | [@sannlynnhtun-coding](https://github.com/sannlynnhtun-coding), [@theinhtetaung-dev](https://github.com/theinhtetaung-dev) |
 | Word List | <code>2026&#8209;03&#8209;04</code> | [word-list](https://github.com/burma-project-ideas/word-list) · [Live app](https://blazor-word-list.vercel.app/) | [Kanaung Wordlists](https://github.com/kanaung/wordlists) (wordlist data), [@sannlynnhtun-coding](https://github.com/sannlynnhtun-coding) (app) |
 | Mantra Calendar | <code>2025&#8209;08&#8209;21</code> | [mantra-calendar](https://github.com/burma-project-ideas/mantra-calendar) | [@sannlynnhtun-coding](https://github.com/sannlynnhtun-coding), [@myatphonethant-dev](https://github.com/myatphonethant-dev) |
 | PhayarSar | <code>2024&#8209;06&#8209;09</code> | [phayar-sar](https://github.com/burma-project-ideas/phayar-sar) | [@sannlynnhtun-coding](https://github.com/sannlynnhtun-coding) |
