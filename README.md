@@ -53,9 +53,11 @@ Ordered by repository creation date, newest first. Dates come from GitHub's `cre
 
 ## Burma Love Calculator
 
+<p><a href="https://blazor-burma-love-calculator.vercel.app/"><img src="https://raw.githubusercontent.com/burma-project-ideas/burma-love-calculator/master/wwwroot/brand/love-mark.svg" width="72" height="72" alt="Burma Love Calculator rose heart logo with a diamond cutout" /></a></p>
+
 [Try the calculator](https://blazor-burma-love-calculator.vercel.app/) · [Read the calculation workflow and setup guide](https://github.com/burma-project-ideas/burma-love-calculator#readme)
 
-နာမည်နှစ်ခုကို English အက္ခရာနဲ့ ထည့်ပြီး အပျော်တမ်း Score တွက်ကြည့်နိုင်တဲ့ Blazor WebAssembly App ပါ။ ရလဒ်ရဲ့ Calculation Round တွေကိုလည်း ဖွင့်ကြည့်နိုင်ပါတယ်။ Prestige UI ကို Blazor အတွက် Adapt လုပ်ထားပြီး Mobile Layout၊ Light/Dark Theme နဲ့ Keyboard အသုံးပြုမှုကို ပံ့ပိုးထားပါတယ်။ နာမည်တွေကို Browser ထဲမှာပဲ တွက်ပြီး Relationship Prediction အဖြစ် မသုံးသင့်ပါဘူး။
+နာမည်နှစ်ခုကို English အက္ခရာနဲ့ ထည့်ပြီး အပျော်တမ်း Score တွက်ကြည့်နိုင်တဲ့ Blazor WebAssembly App ပါ။ ရလဒ်ကို Progress Indicator နဲ့ ပြပြီး Calculation Round တစ်ခုစီရဲ့ Input/Output ဂဏန်းတွေကို Label အလိုက် ဖွင့်ကြည့်နိုင်ပါတယ်။ Prestige UI ကို Blazor အတွက် Adapt လုပ်ထားပြီး Mobile Layout၊ Light/Dark Theme နဲ့ Keyboard အသုံးပြုမှုကို ပံ့ပိုးထားပါတယ်။ နာမည်တစ်ခုစီမှာ English အက္ခရာ ပါရပြီး Character ၈၀ အထိ လက်ခံပါတယ်။ နာမည်တွေကို Browser ထဲမှာပဲ တွက်ပြီး Relationship Prediction အဖြစ် မသုံးသင့်ပါဘူး။
 
 App: [Sann Lynn Htun](https://github.com/sannlynnhtun-coding). UI: adapted from [Prestige UI](https://prestigeui.com/); [credits and licenses](https://github.com/burma-project-ideas/burma-love-calculator/blob/master/THIRD_PARTY_NOTICES.md).
 
