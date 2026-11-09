@@ -22,10 +22,11 @@ If you like this repository to learn or start your solution, please give it a st
 
 ## Projects
 
-Ordered by repository creation date, newest first. Dates come from GitHub's `created_at` field in UTC and are not confirmed project kickoff dates. Snapshot: 2026-11-04; Word List, Burglish, and Burma Love Calculator added 2026-11-07. Contributors are GitHub accounts credited with commits, listed in contribution order; upstream data sources are credited where noted. The `.github` organization-profile repository and backup repositories are excluded.
+Ordered by repository creation date, newest first. Dates come from GitHub's `created_at` field in UTC and are not confirmed project kickoff dates. Snapshot: 2026-11-04; Word List, Burglish, and Burma Love Calculator added 2026-11-07; Kyar Kwat added 2026-11-09. Contributors are GitHub accounts credited with commits, listed in contribution order; upstream data sources are credited where noted. The `.github` organization-profile repository and backup repositories are excluded.
 
 | Project | Created&nbsp;date | Repository | Contributors / source credits |
 | --- | :---: | --- | --- |
+| Kyar Kwat (ကျားကွက်) | <code>2026&#8209;11&#8209;09</code> | [kyar-kwat](https://github.com/burma-project-ideas/kyar-kwat) · [Live app](https://kyarkwat.vercel.app/) | [@sannlynnhtun-coding](https://github.com/sannlynnhtun-coding) (app); [Myanmar checkers](https://harryheinthant.site/checker) (rules reference) |
 | Office Zoo | <code>2026&#8209;11&#8209;04</code> | [office-zoo](https://github.com/burma-project-ideas/office-zoo) | [@sannlynnhtun-coding](https://github.com/sannlynnhtun-coding) |
 | Burma Calendar | <code>2026&#8209;09&#8209;01</code> | [burma-calendar](https://github.com/burma-project-ideas/burma-calendar) | [@sannlynnhtun-coding](https://github.com/sannlynnhtun-coding) |
 | Burglish | <code>2026&#8209;08&#8209;20</code> | [burglish](https://github.com/burma-project-ideas/burglish) | [@sannlynnhtun-coding](https://github.com/sannlynnhtun-coding), [@theinhtetaung-dev](https://github.com/theinhtetaung-dev) |
@@ -50,6 +51,18 @@ Ordered by repository creation date, newest first. Dates come from GitHub's `cre
 | Movie Ticket Online Booking System | <code>2023&#8209;10&#8209;07</code> | [movie-ticket-online-booking-system](https://github.com/burma-project-ideas/movie-ticket-online-booking-system) | [@mgchit-coding](https://github.com/mgchit-coding), [@sannlynnhtun-coding](https://github.com/sannlynnhtun-coding), [@OatSoeK](https://github.com/OatSoeK), [@phyuphyuthin-coding](https://github.com/phyuphyuthin-coding) |
 | Dream Dictionary | <code>2023&#8209;10&#8209;07</code> | [dream-dictionary](https://github.com/burma-project-ideas/dream-dictionary) | [@sannlynnhtun-coding](https://github.com/sannlynnhtun-coding), [@OatSoeK](https://github.com/OatSoeK) |
 | Min Thein Kha - Lat Htauk Bay Din | <code>2023&#8209;10&#8209;05</code> | [min-thein-kha-lat-htauk-bay-din](https://github.com/burma-project-ideas/min-thein-kha-lat-htauk-bay-din) | [@sannlynnhtun-coding](https://github.com/sannlynnhtun-coding), [@OatSoeK](https://github.com/OatSoeK) |
+
+## Kyar Kwat — ကျားကွက်
+
+<p><a href="https://kyarkwat.vercel.app/"><img src="https://raw.githubusercontent.com/burma-project-ideas/kyar-kwat/main/docs/images/mark.svg" width="72" height="72" alt="Kyar Kwat board and counter logo" /></a></p>
+
+[ဂိမ်းကို ဖွင့်ကစားရန်](https://kyarkwat.vercel.app/) · [ကစားနည်း၊ Workflow နဲ့ Setup Guide](https://github.com/burma-project-ideas/kyar-kwat#readme)
+
+**ကျားနိုင် / ကျားကုန်** ကစားနည်းနှစ်မျိုးကို ဖုန်းနဲ့ ကွန်ပျူတာ Browser မှာ ကစားနိုင်တဲ့ **.NET 10 Blazor WebAssembly App** ပါ။ စက်နဲ့ Easy / Medium / Hard အဆင့်ရွေးကစားနိုင်သလို တစ်စက်တည်းမှာ နှစ်ယောက် အလှည့်ကျ ကစားနိုင်ပါတယ်။ ကျားနိုင်မှာ ပြိုင်ဘက်ကျားကုန်ရင် သို့မဟုတ် ပြိုင်ဘက်ရွှေ့မရရင် ကိုယ်နိုင်ပြီး၊ ကျားကုန်မှာတော့ ကိုယ့်ကျားကုန်ရင် သို့မဟုတ် ကိုယ်ရွှေ့မရရင် ကိုယ်နိုင်ပါတယ်။ စားနိုင်ရင် မဖြစ်မနေစားရပြီး အများဆုံးစားနိုင်တဲ့ လမ်းကြောင်းကို ရွေးရပါတယ်။ Board State၊ Legal Routes နဲ့ AI Search ကို Browser ထဲမှာပဲ တွက်တဲ့အတွက် Account နဲ့ Database မလိုပါဘူး။
+
+[![Kyar Kwat game board with player counts and Burmese turn information](https://raw.githubusercontent.com/burma-project-ideas/kyar-kwat/main/docs/images/desktop.jpg)](https://kyarkwat.vercel.app/)
+
+App: [Sann Lynn Htun](https://github.com/sannlynnhtun-coding). Rules reference: [Myanmar checkers](https://harryheinthant.site/checker). [Mobile screenshot၊ Tests နဲ့ Font Credits](https://github.com/burma-project-ideas/kyar-kwat#readme) ကိုလည်း ကြည့်နိုင်ပါတယ်။
 
 ## Zodiac
 
