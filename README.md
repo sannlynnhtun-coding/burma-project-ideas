@@ -54,7 +54,7 @@ Ordered by repository creation date, newest first. Dates come from GitHub's `cre
 
 ## Kyar Kwat — ကျားကွက်
 
-<p><a href="https://kyarkwat.vercel.app/"><img src="https://raw.githubusercontent.com/burma-project-ideas/kyar-kwat/main/docs/images/mark.svg" width="72" height="72" alt="Kyar Kwat board and counter logo" /></a></p>
+<p><a href="https://kyarkwat.vercel.app/"><img src="https://raw.githubusercontent.com/burma-project-ideas/kyar-kwat/main/BlazorWasm.KyarKwat/wwwroot/branding/icon-192.png" width="72" height="72" alt="KyarKwat Jump K counter logo" /></a></p>
 
 [ဂိမ်းကို ဖွင့်ကစားရန်](https://kyarkwat.vercel.app/) · [ကစားနည်း၊ Workflow နဲ့ Setup Guide](https://github.com/burma-project-ideas/kyar-kwat#readme)
 
@@ -62,7 +62,7 @@ Ordered by repository creation date, newest first. Dates come from GitHub's `cre
 
 [![Kyar Kwat game board with player counts and Burmese turn information](https://raw.githubusercontent.com/burma-project-ideas/kyar-kwat/main/docs/images/desktop.jpg)](https://kyarkwat.vercel.app/)
 
-App: [Sann Lynn Htun](https://github.com/sannlynnhtun-coding). Rules reference: [Myanmar checkers](https://harryheinthant.site/checker). [Mobile screenshot၊ Tests နဲ့ Font Credits](https://github.com/burma-project-ideas/kyar-kwat#readme) ကိုလည်း ကြည့်နိုင်ပါတယ်။
+App: [Sann Lynn Htun](https://github.com/sannlynnhtun-coding). Rules reference: [Myanmar checkers](https://harryheinthant.site/checker). [Mobile screenshot၊ Tests နဲ့ Font Credits](https://github.com/burma-project-ideas/kyar-kwat#readme) နဲ့ [Jump K Logo / Icon Assets](https://github.com/burma-project-ideas/kyar-kwat/blob/main/docs/BRANDING.md) ကိုလည်း ကြည့်နိုင်ပါတယ်။
 
 ## Zodiac
 
