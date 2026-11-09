@@ -98,5 +98,5 @@ Wordlist data: [Kanaung Wordlists and its contributors](https://github.com/kanau
 
 - [NatMyatSi](./nat-myat-si)
 
-![Alt text](https://github.com/sannlynnhtun-coding/Burma-Project-Ideas/blob/main/data/burma-project-ideas.png)
+![Burma Project Ideas: Open Source Projects, coral-peach orange banner](data/burma-project-ideas.png)
 
