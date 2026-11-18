@@ -94,6 +94,19 @@ App: [Sann Lynn Htun](https://github.com/sannlynnhtun-coding). UI: adapted from 
 
 Wordlist data: [Kanaung Wordlists and its contributors](https://github.com/kanaung/wordlists). App: [Sann Lynn Htun](https://github.com/sannlynnhtun-coding). The Blazor interface adapts [Prestige UI](https://prestigeui.com/) components; [credits and licenses](https://github.com/burma-project-ideas/word-list/blob/master/THIRD_PARTY_NOTICES.md) are included in the project.
 
+## Contributors
+
+Thanks to the contributors credited in the [Burma Project Ideas](https://github.com/burma-project-ideas) projects above:
+
+- [@sannlynnhtun-coding](https://github.com/sannlynnhtun-coding)
+- [@theinhtetaung-dev](https://github.com/theinhtetaung-dev)
+- [@myatphonethant-dev](https://github.com/myatphonethant-dev)
+- [@zinlynhtet](https://github.com/zinlynhtet)
+- [@mgchit-coding](https://github.com/mgchit-coding)
+- [@phyuphyuthin-coding](https://github.com/phyuphyuthin-coding)
+- [@naykhantkyaw-coding](https://github.com/naykhantkyaw-coding)
+- [@OatSoeK](https://github.com/OatSoeK)
+
 ## More project ideas
 
 - [NatMyatSi](./nat-myat-si)
